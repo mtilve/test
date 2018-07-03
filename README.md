@@ -1,12 +1,3 @@
-# back
-
-- Based on 'Building a RESTful API Using Node and Express 4' https://github.com/scotch-io/node-api
-- MongoDB database by mLab https://mlab.com/
-
-* quick start:
-  * npm install
-  * node server
-
 # front
 
 - Based on ngx-admin - 'Admin template based on Angular 6+, Bootstrap 4 and Nebular' https://github.com/akveo/ngx-admin
@@ -17,8 +8,19 @@
   * npm install
   * npm start
 
-* unit test: npm test
-* e2e test: ng e2e
+* unit test
+  * npm test
+* e2e test
+  * ng e2e
+
+# back
+
+- Based on 'Building a RESTful API Using Node and Express 4' https://github.com/scotch-io/node-api
+- MongoDB database by mLab https://mlab.com/
+
+* quick start:
+  * npm install
+  * node server
 
 # Tools: 
 - Visual Studio Code https://code.visualstudio.com/
